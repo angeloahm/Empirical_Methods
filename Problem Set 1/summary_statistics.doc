@@ -1,0 +1,246 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\fs20\b\qc\line Summary Statistics Raw Data }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1100
+\fs20\pard\intbl\qr { }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2167
+\fs20\pard\intbl\qr {{ N}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3233
+\fs20\pard\intbl\qr {{ Mean}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx4300
+\fs20\pard\intbl\qr {{ Median}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5367
+\fs20\pard\intbl\qr {{ SD}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6433
+\fs20\pard\intbl\qr {{ Min}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7500
+\fs20\pard\intbl\qr {{ Max}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx8567
+\fs20\pard\intbl\qr {{ Skewness}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx9633
+\fs20\pard\intbl\qr {{ Kurtosis}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx10700
+\fs20\pard\intbl\qr {{ IQR}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ age}}\cell
+\cellx2167
+\qr {{201398}}\cell
+\cellx3233
+\qr {{35.362}}\cell
+\cellx4300
+\qr {{35}}\cell
+\cellx5367
+\qr {{22.272}}\cell
+\cellx6433
+\qr {{0}}\cell
+\cellx7500
+\qr {{85}}\cell
+\cellx8567
+\qr {{.243}}\cell
+\cellx9633
+\qr {{2.068}}\cell
+\cellx10700
+\qr {{36}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ wkswork1}}\cell
+\cellx2167
+\qr {{201398}}\cell
+\cellx3233
+\qr {{22.817}}\cell
+\cellx4300
+\qr {{0}}\cell
+\cellx5367
+\qr {{24.708}}\cell
+\cellx6433
+\qr {{0}}\cell
+\cellx7500
+\qr {{52}}\cell
+\cellx8567
+\qr {{.241}}\cell
+\cellx9633
+\qr {{1.129}}\cell
+\cellx10700
+\qr {{52}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ uhrsworkly}}\cell
+\cellx2167
+\qr {{201398}}\cell
+\cellx3233
+\qr {{524.894}}\cell
+\cellx4300
+\qr {{999}}\cell
+\cellx5367
+\qr {{480.331}}\cell
+\cellx6433
+\qr {{1}}\cell
+\cellx7500
+\qr {{999}}\cell
+\cellx8567
+\qr {{-.027}}\cell
+\cellx9633
+\qr {{1.002}}\cell
+\cellx10700
+\qr {{959}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx1100
+\fs20\pard\intbl\ql {{ incwage}}\cell
+\clbrdrb\brdrw15\brdrs\cellx2167
+\qr {{201398}}\cell
+\clbrdrb\brdrw15\brdrs\cellx3233
+\qr {{23233770}}\cell
+\clbrdrb\brdrw15\brdrs\cellx4300
+\qr {{27000}}\cell
+\clbrdrb\brdrw15\brdrs\cellx5367
+\qr {{42208142}}\cell
+\clbrdrb\brdrw15\brdrs\cellx6433
+\qr {{0}}\cell
+\clbrdrb\brdrw15\brdrs\cellx7500
+\qr {{99999999}}\cell
+\clbrdrb\brdrw15\brdrs\cellx8567
+\qr {{1.269}}\cell
+\clbrdrb\brdrw15\brdrs\cellx9633
+\qr {{2.61}}\cell
+\clbrdrb\brdrw15\brdrs\cellx10700
+\qr {{130000}}\cell
+\row}
+
+{
+{\b\qc\line Educational Level label append nocf }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Educational attainment, 1990}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {\b NIU}\cell
+\qr {39865.7}\cell
+\qr {19.79}\cell
+\qr {19.79}\cell
+\row
+\ql {\b No school completed}\cell
+\qr {562.2867}\cell
+\qr {0.28}\cell
+\qr {20.07}\cell
+\row
+\ql {\b 1st-4th grade}\cell
+\qr {1163.597}\cell
+\qr {0.58}\cell
+\qr {20.65}\cell
+\row
+\ql {\b 5th-8th grade}\cell
+\qr {6817.182}\cell
+\qr {3.38}\cell
+\qr {24.04}\cell
+\row
+\ql {\b 9th grade}\cell
+\qr {5060.315}\cell
+\qr {2.51}\cell
+\qr {26.55}\cell
+\row
+\ql {\b 10th grade}\cell
+\qr {5728.529}\cell
+\qr {2.84}\cell
+\qr {29.39}\cell
+\row
+\ql {\b 11th grade}\cell
+\qr {6424.038}\cell
+\qr {3.19}\cell
+\qr {32.58}\cell
+\row
+\ql {\b 12th grade, no diploma}\cell
+\qr {2643.38}\cell
+\qr {1.31}\cell
+\qr {33.90}\cell
+\row
+\ql {\b High school graduate, or GED}\cell
+\qr {46060.68}\cell
+\qr {22.87}\cell
+\qr {56.77}\cell
+\row
+\ql {\b Some college, no degree}\cell
+\qr {29874.46}\cell
+\qr {14.83}\cell
+\qr {71.60}\cell
+\row
+\ql {\b Associate degree, occupational program}\cell
+\qr {6121.845}\cell
+\qr {3.04}\cell
+\qr {74.64}\cell
+\row
+\ql {\b Associate degree, academic program}\cell
+\qr {7893.944}\cell
+\qr {3.92}\cell
+\qr {78.56}\cell
+\row
+\ql {\b Bachelors degree}\cell
+\qr {28234.11}\cell
+\qr {14.02}\cell
+\qr {92.58}\cell
+\row
+\ql {\b Masters degree}\cell
+\qr {10844.56}\cell
+\qr {5.38}\cell
+\qr {97.96}\cell
+\row
+\ql {\b Professional degree}\cell
+\qr {2022.634}\cell
+\qr {1.00}\cell
+\qr {98.97}\cell
+\row
+\ql {\b Doctorate degree}\cell
+\qr {2080.734}\cell
+\qr {1.03}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {\b Total}\cell
+\qr {201398}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+{
+{\b\qc\line Gender }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000
+\ql {Sex}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000
+\ql {\b Male}\cell
+\qr {98586.67}\cell
+\qr {48.95}\cell
+\row
+\ql {\b Female}\cell
+\qr {102811.3}\cell
+\qr {51.05}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000
+\ql {\b Total}\cell
+\qr {201398}\cell
+\qr {100.00}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3000\cell
+\row}
+
+
+\writepositionforappend
+}}

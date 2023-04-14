@@ -1,0 +1,191 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\fs20\b\qc\line Summary Statistics Raw Data }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1100
+\fs20\pard\intbl\qr { }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2167
+\fs20\pard\intbl\qr {{ N}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3233
+\fs20\pard\intbl\qr {{ Mean}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx4300
+\fs20\pard\intbl\qr {{ Median}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5367
+\fs20\pard\intbl\qr {{ SD}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6433
+\fs20\pard\intbl\qr {{ Min}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7500
+\fs20\pard\intbl\qr {{ Max}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx8567
+\fs20\pard\intbl\qr {{ Skewness}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx9633
+\fs20\pard\intbl\qr {{ Kurtosis}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx10700
+\fs20\pard\intbl\qr {{ IQR}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ age}}\cell
+\cellx2167
+\qr {{71548}}\cell
+\cellx3233
+\qr {{41.999}}\cell
+\cellx4300
+\qr {{42}}\cell
+\cellx5367
+\qr {{9.873}}\cell
+\cellx6433
+\qr {{25}}\cell
+\cellx7500
+\qr {{60}}\cell
+\cellx8567
+\qr {{.027}}\cell
+\cellx9633
+\qr {{1.888}}\cell
+\cellx10700
+\qr {{16}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ wkswork1}}\cell
+\cellx2167
+\qr {{71548}}\cell
+\cellx3233
+\qr {{48.618}}\cell
+\cellx4300
+\qr {{52}}\cell
+\cellx5367
+\qr {{8.995}}\cell
+\cellx6433
+\qr {{1}}\cell
+\cellx7500
+\qr {{52}}\cell
+\cellx8567
+\qr {{-2.926}}\cell
+\cellx9633
+\qr {{10.982}}\cell
+\cellx10700
+\qr {{0}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ uhrsworkly}}\cell
+\cellx2167
+\qr {{71548}}\cell
+\cellx3233
+\qr {{40.702}}\cell
+\cellx4300
+\qr {{40}}\cell
+\cellx5367
+\qr {{10.203}}\cell
+\cellx6433
+\qr {{1}}\cell
+\cellx7500
+\qr {{99}}\cell
+\cellx8567
+\qr {{.414}}\cell
+\cellx9633
+\qr {{7.434}}\cell
+\cellx10700
+\qr {{0}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx1100
+\fs20\pard\intbl\ql {{ incwage}}\cell
+\clbrdrb\brdrw15\brdrs\cellx2167
+\qr {{71548}}\cell
+\clbrdrb\brdrw15\brdrs\cellx3233
+\qr {{49884.484}}\cell
+\clbrdrb\brdrw15\brdrs\cellx4300
+\qr {{38000}}\cell
+\clbrdrb\brdrw15\brdrs\cellx5367
+\qr {{57179.618}}\cell
+\clbrdrb\brdrw15\brdrs\cellx6433
+\qr {{2000}}\cell
+\clbrdrb\brdrw15\brdrs\cellx7500
+\qr {{1168999}}\cell
+\clbrdrb\brdrw15\brdrs\cellx8567
+\qr {{7.797}}\cell
+\clbrdrb\brdrw15\brdrs\cellx9633
+\qr {{107.71}}\cell
+\clbrdrb\brdrw15\brdrs\cellx10700
+\qr {{38000}}\cell
+\row}
+
+{
+{\b\qc\line Educational Level label append nocf }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {\b 1}\cell
+\qr {5779.975}\cell
+\qr {8.08}\cell
+\qr {8.08}\cell
+\row
+\ql {\b 2}\cell
+\qr {19381.85}\cell
+\qr {27.09}\cell
+\qr {35.17}\cell
+\row
+\ql {\b 3}\cell
+\qr {20042.84}\cell
+\qr {28.01}\cell
+\qr {63.18}\cell
+\row
+\ql {\b 4}\cell
+\qr {17148.4}\cell
+\qr {23.97}\cell
+\qr {87.15}\cell
+\row
+\ql {\b 5}\cell
+\qr {9194.935}\cell
+\qr {12.85}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {\b Total}\cell
+\qr {71548}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+{
+{\b\qc\line Gender }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000
+\ql {sex==Male}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000
+\ql {\b 0}\cell
+\qr {33883.37}\cell
+\qr {47.36}\cell
+\row
+\ql {\b 1}\cell
+\qr {37664.63}\cell
+\qr {52.64}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000
+\ql {\b Total}\cell
+\qr {71548}\cell
+\qr {100.00}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3000\cell
+\row}
+
+
+\writepositionforappend
+}}
